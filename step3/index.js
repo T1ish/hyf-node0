@@ -31,6 +31,7 @@ class Person {
 	//The function doesn't take any arguments but console logs the birthday message
 	//Notice how we use ` - ticks and template literals instead of " - doublequotes and variables to make a clean message. :)
 	birthday(){
+		this.age += 1;
 		console.log(`Whishing ${this.name} a happy ${this.age}th birthday!`);
 	}
 };
