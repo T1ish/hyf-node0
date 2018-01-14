@@ -1,4 +1,4 @@
-//Checking if we are getting connected with index.html
+//Checking if we are getting connected with index.html.
 //console.log("index.js is loaded");
 
 //We are making a class, think it as a blueprint of how a "person" should be
